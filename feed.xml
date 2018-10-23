@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Trippar</title>
+    <description>blog
+</description>
+    <link>https://blog.trippar.com/</link>
+    <atom:link href="https://blog.trippar.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Oct 2018 11:19:15 -0400</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 11:19:15 -0400</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>My New blog</title>
+        <description>&lt;p&gt;post coming soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Oct 2018 00:00:00 -0400</pubDate>
+        <link>https://blog.trippar.com/2018/10/23/new-blog.html</link>
+        <guid isPermaLink="true">https://blog.trippar.com/2018/10/23/new-blog.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
